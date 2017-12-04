@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=rakieta
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ rakieta\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ zbadajKlawisze()
+comment2.params=
+comment2.target=void\ zbadajBrzegi()
+comment3.params=
+comment3.target=void\ zbadajRobocika()
+comment4.params=
+comment4.target=void\ zbadajPingwina()
+comment5.params=
+comment5.target=void\ pokazPunkty()
+comment6.params=
+comment6.target=void\ act()
+numComments=7
